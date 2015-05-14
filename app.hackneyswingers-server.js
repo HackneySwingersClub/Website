@@ -2,8 +2,6 @@
 
 // The Workers Server
 // ==================
-//
-// The server for the workers website
 
 // Modules
 // =======
